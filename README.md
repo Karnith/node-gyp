@@ -18,6 +18,7 @@ etc.), regardless of what version of node is actually installed on your system
  * Easy to use, consistent interface
  * Same commands to build your module on every platform
  * Supports multiple target versions of Node
+ * Target Visual Studio version with --msvs_version= for npm module compile (e.g. npm install bcrypt --msvs_version=2012)
 
 
 Installation
